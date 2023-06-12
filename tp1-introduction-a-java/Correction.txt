@@ -1,0 +1,9 @@
+Correction TP 1
+
+| Conformité du code     	|   9/10    |
+| Désign du code            |   5/5     |
+| Implémentation du code    |   5/5     |
+| Total                     |   19/20    |
+
+Vous devex expliquer vos chiffres magiques. Comment avez vous obtenu les valeurs des variables "ajustement".
+Vous devez utiliser le patron Fluent dans LetterFactory. -1 pts conformité
